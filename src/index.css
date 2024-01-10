@@ -1,0 +1,10 @@
+:root{
+    font-family: 'SF Pro Display', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;                                     
+}
+body{
+    background: url('./assets/landscape.jpg');
+    background-position: 0;
+}
