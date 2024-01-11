@@ -3,7 +3,7 @@
 Rainsunny page baseado no design disponível no Figma. O objetivo é criar uma aplicação que mostre a precisão do tempo na localidade dejesada.
 
 # Acesso ao Projeto
-Explore a landing page em https://evertonceciliano.github.io/explorer-page/.
+Explore a aplicação em https://evertonceciliano.github.io/rainsunny.co/
 
 ## Requisitos de Sistema
 
