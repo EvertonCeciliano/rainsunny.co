@@ -1,5 +1,4 @@
-
-# Explorer🚀
+# Rainsunny🌦️
 
 Rainsunny page baseado no design disponível no Figma. O objetivo é criar uma aplicação que mostre a precisão do tempo na localidade dejesada.
 
